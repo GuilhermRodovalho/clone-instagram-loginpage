@@ -9,4 +9,4 @@ Interface feita com HTML e CSS, parte do bootcamp da Everis, feito pela Digital 
 
 ## Imagem
 
-![image-20201117102007762](C:\Users\carad\AppData\Roaming\Typora\typora-user-images\image-20201117102007762.png)
+![Screenshot](D:\workspace\interface-instagram\Screenshot.png)
