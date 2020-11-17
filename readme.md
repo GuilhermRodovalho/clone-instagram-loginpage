@@ -9,4 +9,4 @@ Interface feita com HTML e CSS, parte do bootcamp da Everis, feito pela Digital 
 
 ## Imagem
 
-![Screenshot](Screenshot.png)
+![Screenshot](https://github.com/GuilhermRodovalho/clone-instagram-loginpage/blob/master/img/Screenshot.png)
