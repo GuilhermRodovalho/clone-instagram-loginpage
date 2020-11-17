@@ -9,4 +9,4 @@ Interface feita com HTML e CSS, parte do bootcamp da Everis, feito pela Digital 
 
 ## Imagem
 
-![Screenshot](D:\workspace\interface-instagram\Screenshot.png)
+![Screenshot](Screenshot.png)
